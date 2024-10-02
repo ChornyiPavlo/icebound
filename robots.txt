@@ -2,5 +2,5 @@ User-Agent: *
 Disallow:
 
 
-Sitemap: http://pin-up.iceracerpin.pro/sitemap.xml
-Host: pin-up.iceracerpin.pro
+Sitemap: http://pinaz.iceracerpin.pro/sitemap.xml
+Host: pinaz.iceracerpin.pro
